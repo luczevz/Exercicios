@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&display=swap');
+
+body {
+    background-color: rgb(48,48,48);
+    color: rgb(239,235,228);
+}
+
+
+section {
+
+    display: grid;
+    text-decoration: none;
+    grid-auto-flow: column;
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Andika';
+
+
+}
+
+
+#div .principal li{
+
+    display: flex;
+
+}
